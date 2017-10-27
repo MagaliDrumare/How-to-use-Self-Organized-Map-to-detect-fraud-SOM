@@ -5,4 +5,8 @@
 * SOMs Intuition Deep learning A-Z Udemy : http://bit.ly/2hf2vxQ
 * Fraud detection with SOM Deep learning A-Z Udemy: http://bit.ly/2zK9cPx
 
-# How-to-use-Self-Organized-Map-to-detect-fraud-
+
+# SOM Unsupervised Neural Networks 
+* The Math of Intelligence #4 (8'27) : https://youtu.be/ov_RkIJptwE
+
+
